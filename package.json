@@ -1,0 +1,10 @@
+{
+  "name": "Range",
+  "version": "1.0.0",
+  "main": "js/Range",
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
