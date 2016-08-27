@@ -1,6 +1,8 @@
-var Number, Range, wrongType;
+var Number, Range, Validator, wrongType;
 
 Number = require("Nan").Number;
+
+Validator = require("Validator");
 
 wrongType = require("wrongType");
 
