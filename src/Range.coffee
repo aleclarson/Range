@@ -1,6 +1,7 @@
 
 {Number} = require "Nan"
 
+Validator = require "Validator"
 wrongType = require "wrongType"
 
 Range = Validator
